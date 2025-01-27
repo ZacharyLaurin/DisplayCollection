@@ -9,7 +9,8 @@ An inventory list of my collection of vintage electronic display devices
 |                      | IN-14          | 7      | NOS            |                           |
 |                      | IN-33          | 1      | NOS (with box) |                           |
 |                      | IV-6           | 5      | NOS            |                           |
-|                      | IV-18          | 1      | Possibly NOS   |                           |
+|                      | IV-18          | 2      | NOS            |                           |
+|                      | IVL1-8/13      | 1      | Used           |                           |
 |                      |                |        |                |                           |
 | German Tubes         | Z560M          | 3      | NOS            | Regular version           |
 |                      | Z560M          | 4      | NOS (with box) | Fisheye version           |
